@@ -11,3 +11,7 @@ described in <http://support.microsoft.com/kb/311272>.
 For Windows Vista and later, a newer version of devcon.exe is required.
 It can be extracted from the Windows WDK as described in 
 <http://social.technet.microsoft.com/wiki/contents/articles/how-to-obtain-the-current-version-of-device-console-utility-devcon-exe.aspx>.
+
+For Windows 8 it looks like that M$ has published the source code of devcon
+http://code.msdn.microsoft.com/windowshardware/DevCon-Sample-4e95d71c
+
